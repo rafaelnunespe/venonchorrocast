@@ -1,0 +1,66 @@
+﻿@model IEnumerable<Venonchorrocast.Models.Ouvinte>
+
+@{
+    ViewBag.Title = "Usuários Cadastrados";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@if (String.Equals(Session["nomeUsuarioLogado"], "administration"))
+{
+    <h2 class="pd">Lista de Usuários</h2>
+
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Foto)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Nome)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Apelido)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Email)
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    <img src="/Ouvintes/RetrieveImage/@item.id_ouvinte" alt="" style="width: 75px; height: 75px; border-radius: 100px " />
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Nome)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Apelido)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Email)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.id_ouvinte }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.id_ouvinte }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.id_ouvinte })
+                </td>
+            </tr>
+        }
+
+    </table>
+}
+else
+{
+    <h2 class="pd">Você não possui acesso à essa página, favor voltar à pagina inicial!</h2>
+
+    <div class="pt-3">
+        <a href="@Url.Action("Index", "Home")" class="btn btn-warning">
+            <i class="bi-arrow-left"></i>
+            Voltar
+        </a>
+    </div>
+}
+
+

@@ -1,0 +1,51 @@
+﻿@model Venonchorrocast.Models.Ouvinte
+
+@{
+    ViewBag.Title = "Meu perfil";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@if (String.Equals(Session["nomeUsuarioLogado"], "administration") || String.Equals(Session["usuarioLogadoID"], Model.id_ouvinte.ToString()))
+{
+
+    <h2 class="pd">Meu perfil</h2>
+
+    <div>
+        <hr />
+        <div class="d-flex align-items-center content">
+            <div class="flex-shrink- img-container">
+                <img src="/Ouvintes/RetrieveImage/@Html.DisplayFor(model => model.id_ouvinte)" class="foto-perfil" alt="Foto_Perfil" height=200 width=200 />
+            </div>
+            <div class="flex-grow-1 ms-3">
+                <h1 class="fw-bold">@Html.DisplayFor(model => model.Apelido)</h1>
+                <p style="font-size: 18px">
+                    @Html.DisplayFor(model => model.Nome)
+                    <br />
+                </p>
+                <p style="font-size: 15px">
+                    <b>Email: </b>
+                    @Html.DisplayFor(model => model.Email)
+                </p>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-1 btn-create">
+        <a href="@Url.Action("Edit", "Ouvintes", new { id = Model.id_ouvinte })" class="btn btn-warning">
+            <i class="bi-pen"></i>
+            Editar
+        </a>
+    </div>
+}
+else
+{
+    <h2 class="pd">Você não possui acesso à essa página, favor voltar à pagina inicial!</h2>
+
+    <div class="pt-3">
+        <a href="@Url.Action("Index", "Home")" class="btn btn-warning">
+            <i class="bi-arrow-left"></i>
+            Voltar
+        </a>
+    </div>
+}
+

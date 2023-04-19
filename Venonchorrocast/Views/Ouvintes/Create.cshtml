@@ -1,0 +1,129 @@
+﻿@model Venonchorrocast.Models.Ouvinte
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html lang="pt-br">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta charset="utf-8" />
+    <title>Cadastrar</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body>
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/jqueryval")
+
+    <script type="text/javascript">
+        function fileCheck(obj) {
+            var fileExtension = ['jpeg', 'jpg', 'png', 'gif', 'bmp'];
+            if ($.inArray($(obj).val().split('.').pop().toLowerCase(), fileExtension) == -1) {
+                alert("Only '.jpeg','.jpg', '.png', '.gif', '.bmp' formats are allowed.");
+            }
+        }
+
+    </script>
+
+    @using (Html.BeginForm("Create", "Ouvintes", FormMethod.Post, new { enctype = "multipart/form-data" }))
+    {
+        @Html.AntiForgeryToken()
+
+
+        <div class="header-cadastro pd">
+            <div class="container clearfix text-center">
+                <a class="header-logo" href="Logout">
+                    <img class="logo" src="~/Images/logovenon.jpg" />
+                </a>
+            </div>
+        </div>
+
+        <main class="cadastro-wrapper">
+
+            <p class="textSignup text-center text-muted">Cadastrar-se</p>
+
+            <div class="form-horizontal form-cadastro">
+
+                @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                <div class="form-group form-gp-cadastro">
+                    @Html.LabelFor(model => model.Nome, htmlAttributes: new { @class = "control-label col-md-2 " })
+                    <div class="col-md-12">
+                        @Html.EditorFor(model => model.Nome, new { htmlAttributes = new { @class = "form-control form-ctrl-cadastro" } })
+                        @Html.ValidationMessageFor(model => model.Nome, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group form-gp-cadastro">
+                    @Html.LabelFor(model => model.Apelido, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-12">
+                        @Html.EditorFor(model => model.Apelido, new { htmlAttributes = new { @class = "form-control form-ctrl-cadastro" } })
+                        @Html.ValidationMessageFor(model => model.Apelido, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group form-gp-cadastro">
+                    @Html.LabelFor(model => model.Email, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-12">
+                        @Html.EditorFor(model => model.Email, new { htmlAttributes = new { @class = "form-control form-ctrl-cadastro" } })
+                        @Html.ValidationMessageFor(model => model.Email, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                @if (TempData["mensagemErro"] != null)
+                {
+                    <div class="field-error message-error-cad">
+                        @TempData["mensagemErro"]
+                    </div>
+                }
+
+                <div class="form-group form-gp-cadastro">
+                    @Html.LabelFor(model => model.Senha, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-12">
+                        @Html.EditorFor(model => model.Senha, new { htmlAttributes = new { @type = "password", @class = "form-control form-ctrl-cadastro" } })
+                        @Html.ValidationMessageFor(model => model.Senha, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+
+                <div class="form-group form-gp-cadastro">
+                    @Html.LabelFor(model => model.Foto, new { @class = "control-label col-md-2" })
+                    <div class="col-md-12">
+                        <input type="file" class="form-control form-ctrl-cadastro" name="ImageData" id="ImageData" onchange="fileCheck(this);" />
+                        @Html.ValidationMessageFor(model => model.Foto)
+                    </div>
+                </div>
+
+
+
+                <div class="form-group">
+                    <div class="col-md-12 cadastrarButton">
+                        <input type="submit" value="Cadastrar" class="btn btn-success btncadastrar" />
+                    </div>
+                </div>
+            </div>
+        </main>
+
+        <p class="signup-callout">
+            Já possui uma conta?
+            <a href="Login">Entrar</a>
+        </p>
+
+        <div class="text-center btnvoltar">
+            <a href="Voltar" class="btn btn-warning">
+                Voltar
+            </a>
+        </div>
+
+        <!--<div>
+            @Html.ActionLink("Back to List", "Index")
+        </div>-->
+    }
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+</body>
+</html>

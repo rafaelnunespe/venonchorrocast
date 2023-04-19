@@ -1,0 +1,97 @@
+﻿@model Venonchorrocast.Models.Ouvinte
+
+@{
+    ViewBag.Title = "Editar Perfil";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+<h2 class="pd">Editar Perfil</h2>
+
+<script type="text/javascript">
+    function fileCheck(obj) {
+        var fileExtension = ['jpeg', 'jpg', 'png', 'gif', 'bmp'];
+        if ($.inArray($(obj).val().split('.').pop().toLowerCase(), fileExtension) == -1) {
+            alert("Only '.jpeg','.jpg', '.png', '.gif', '.bmp' formats are allowed.");
+        }
+    }
+</script>
+
+@using (Html.BeginForm("Edit", "Ouvintes", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    @Html.AntiForgeryToken()
+
+    if (String.Equals(@Session["nomeUsuarioLogado"], "administration") || @Session["usuarioLogadoID"].ToString() == @ViewData["IdDetails"].ToString())
+    {
+        <div class="form-horizontal">
+            <hr />
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+            @Html.HiddenFor(model => model.id_ouvinte)
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.Nome, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-12">
+                    @Html.EditorFor(model => model.Nome, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.Nome, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.Apelido, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-12">
+                    @Html.EditorFor(model => model.Apelido, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.Apelido, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.Email, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-12">
+                    @Html.EditorFor(model => model.Email, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.Email, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.Senha, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-12">
+                    @Html.EditorFor(model => model.Senha, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.Senha, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.Foto, new { @class = "control-label col-md-2" })
+                <div class="col-md-12">
+                    <input class="form-control" type="file" name="ImageData" id="ImageData" onchange="fileCheck(this);" />
+                    @Html.ValidationMessageFor(model => model.Foto)
+                </div>
+            </div>
+
+            <div class="btn-create">
+                <input type="submit" value="Salvar" class="btn btn-success bi-save" />
+                <a href="@Url.Action("Details", "Ouvintes", new { id = Model.id_ouvinte })" class="btn btn-warning">
+                    Voltar
+                </a>
+            </div>
+
+
+        </div>
+
+    }
+    else
+    {
+        <h2 class="pd">Você não possui acesso à essa página, favor voltar à pagina inicial!</h2>
+
+        <div class="pt-3">
+            <a href="@Url.Action("Index", "Home")" class="btn btn-warning">
+                <i class="bi-arrow-left"></i>
+                Voltar
+            </a>
+        </div>
+    }
+}
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

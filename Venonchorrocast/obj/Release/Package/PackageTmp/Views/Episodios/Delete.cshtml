@@ -1,0 +1,120 @@
+﻿@model Venonchorrocast.Models.Episodio
+
+@{
+    ViewBag.Title = "Deletar Episódio";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@if (String.Equals(Session["nomeUsuarioLogado"], "administration"))
+{
+    if (@TempData["ErroDelete"] != null)
+    {
+        <script type="text/javascript">
+            window.onload = function () {
+                alert("@TempData["ErroDelete"]");
+            };
+        </script>
+    }
+
+    <h2>Deletar</h2>
+
+    <h3>Você tem certeza que deseja deletar este episódio?</h3>
+    <div>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.Titulo)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Titulo)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Descriçao)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Descriçao)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Duraçao)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Duraçao)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Link)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Link)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Data_Public)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Data_Public)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Qntde_Play)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Qntde_Play)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Qntde_Download)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Qntde_Download)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Participantes)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Participantes)
+            </dd>
+
+        </dl>
+
+        @using (Html.BeginForm())
+        {
+            @Html.AntiForgeryToken()
+
+            <div class="form-actions">
+                <div class="row">
+                    <div class="col-md-1 btn-create">
+                        <input type="submit" value="Deletar" class="btn btn-danger" />
+                    </div>
+                    <div class="col-md-1 btn-create">
+                        <a href="@Url.Action("Index", "Episodios")" class="btn btn-warning">
+                            Voltar
+                        </a>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+}
+else
+{
+    <h2 class="pd">Você não possui acesso à essa página, favor voltar à pagina inicial!</h2>
+
+    <div class="pt-3">
+        <a href="@Url.Action("Index", "Home")" class="btn btn-warning">
+            <i class="bi-arrow-left"></i>
+            Voltar
+        </a>
+    </div>
+}

@@ -1,0 +1,1395 @@
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Venonchorrocast.dll.config
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Venonchorrocast.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Venonchorrocast.pdb
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\csc.exe
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\csc.exe.config
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\csc.rsp
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\csi.exe
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\csi.exe.config
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\csi.rsp
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\System.AppContext.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Collections.Immutable.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Console.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Globalization.Calendars.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\System.IO.Compression.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\System.IO.FileSystem.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Net.Http.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Net.Sockets.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Reflection.Metadata.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\System.ValueTuple.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Xml.XPath.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\vbc.exe
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\vbc.exe.config
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\vbc.rsp
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\VBCSCompiler.exe
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\VBCSCompiler.exe.config
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Antlr3.Runtime.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\EntityFramework.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\EntityFramework.SqlServer.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.Web.Infrastructure.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Newtonsoft.Json.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\System.Web.Helpers.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\System.Web.Mvc.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\System.Web.Optimization.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\System.Web.Razor.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\System.Web.WebPages.Deployment.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\System.Web.WebPages.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\System.Web.WebPages.Razor.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\WebGrease.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\EntityFramework.xml
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\EntityFramework.SqlServer.xml
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\System.Web.Helpers.xml
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\System.Web.Mvc.xml
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\System.Web.Optimization.xml
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\System.Web.Razor.xml
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\System.Web.WebPages.xml
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\System.Web.WebPages.Deployment.xml
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\System.Web.WebPages.Razor.xml
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Newtonsoft.Json.xml
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Antlr3.Runtime.pdb
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\pt-br\System.Web.Helpers.resources.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\pt-br\System.Web.Mvc.resources.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\pt-br\System.Web.Optimization.resources.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\pt-br\System.Web.Razor.resources.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\pt-br\System.Web.WebPages.resources.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\obj\Debug\Venonchorrocast.csproj.AssemblyReference.cache
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\obj\Debug\Venonchorrocast.csproj.CoreCompileInputs.cache
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\obj\Debug\Venonchorrocast.csproj.CopyComplete
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\obj\Debug\Venonchorrocast.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\obj\Debug\Venonchorrocast.pdb
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Authentication.Core.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Authentication.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.DataProtection.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Http.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Identity.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.WebUtilities.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Configuration.Binder.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Configuration.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Identity.Core.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Logging.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.ObjectPool.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Options.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Primitives.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.WebEncoders.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.Net.Http.Headers.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.Owin.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.Owin.Security.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.Win32.Registry.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Owin.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\System.Buffers.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\System.ComponentModel.Annotations.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\System.Memory.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\System.Numerics.Vectors.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\System.Security.AccessControl.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\System.Security.Cryptography.Xml.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\System.Security.Permissions.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\System.Security.Principal.Windows.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\System.Text.Encodings.Web.dll
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Authentication.xml
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Authentication.Cookies.xml
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Authentication.Core.xml
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Cryptography.KeyDerivation.xml
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.DataProtection.xml
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Http.xml
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Identity.xml
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.WebUtilities.xml
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Configuration.xml
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Configuration.Binder.xml
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Identity.Core.xml
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Logging.xml
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.ObjectPool.xml
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Options.xml
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Primitives.xml
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.WebEncoders.xml
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.Net.Http.Headers.xml
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.Owin.xml
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.Owin.Security.xml
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\System.Buffers.xml
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\System.Memory.xml
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\System.Numerics.Vectors.xml
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\System.Text.Encodings.Web.xml
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Venonchorrocast.dll.config
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Venonchorrocast.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Venonchorrocast.pdb
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\csc.exe
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\csc.exe.config
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\csc.rsp
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\csi.exe
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\csi.exe.config
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\csi.rsp
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.AppContext.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Console.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.IO.Compression.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Net.Http.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.ValueTuple.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\vbc.exe
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\vbc.exe.config
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\vbc.rsp
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\VBCSCompiler.exe
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Antlr3.Runtime.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\EntityFramework.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\EntityFramework.SqlServer.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Authentication.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Identity.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Logging.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Options.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.WebEncoders.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Owin.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Owin.Security.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Win32.Registry.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Newtonsoft.Json.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Owin.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Buffers.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.ComponentModel.Annotations.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Memory.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Numerics.Vectors.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Security.AccessControl.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Security.Cryptography.Xml.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Security.Permissions.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Security.Principal.Windows.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Text.Encodings.Web.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Web.Helpers.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Web.Mvc.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Web.Optimization.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Web.Razor.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Web.WebPages.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Web.WebPages.Razor.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\WebGrease.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Xceed.Wpf.AvalonDock.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Xceed.Wpf.Toolkit.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\EntityFramework.xml
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\EntityFramework.SqlServer.xml
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Authentication.xml
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Authentication.Cookies.xml
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Cryptography.KeyDerivation.xml
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.DataProtection.xml
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Identity.xml
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Identity.Core.xml
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Logging.xml
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Options.xml
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.WebEncoders.xml
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Owin.xml
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Owin.Security.xml
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Buffers.xml
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Memory.xml
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Numerics.Vectors.xml
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Text.Encodings.Web.xml
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Web.Helpers.xml
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Web.Mvc.xml
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Web.Optimization.xml
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Web.Razor.xml
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Web.WebPages.xml
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Web.WebPages.Razor.xml
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Newtonsoft.Json.xml
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Antlr3.Runtime.pdb
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\obj\Debug\Venonchorrocast.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\obj\Debug\Venonchorrocast.csproj.CopyComplete
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\obj\Debug\Venonchorrocast.dll
+C:\Users\Pichau\Documents\Alexandre\Venonchorrocast\Venonchorrocast\Venonchorrocast\obj\Debug\Venonchorrocast.pdb
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\Venonchorrocast.dll.config
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\Venonchorrocast.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\Venonchorrocast.pdb
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\roslyn\csc.exe
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\roslyn\csc.exe.config
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\roslyn\csc.rsp
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\roslyn\csi.exe
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\roslyn\csi.exe.config
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\roslyn\csi.rsp
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\roslyn\System.AppContext.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Console.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\roslyn\System.IO.Compression.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Net.Http.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Net.Sockets.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\roslyn\System.ValueTuple.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Xml.XPath.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\roslyn\vbc.exe
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\roslyn\vbc.exe.config
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\roslyn\vbc.rsp
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\roslyn\VBCSCompiler.exe
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\Antlr3.Runtime.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\EntityFramework.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\EntityFramework.SqlServer.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Authentication.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Identity.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Identity.Core.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Logging.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Options.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.WebEncoders.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\Microsoft.Owin.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\Microsoft.Owin.Security.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\Microsoft.Win32.Registry.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\Newtonsoft.Json.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\Owin.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\System.Buffers.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\System.ComponentModel.Annotations.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\System.Memory.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\System.Numerics.Vectors.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\System.Security.AccessControl.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\System.Security.Cryptography.Xml.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\System.Security.Permissions.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\System.Security.Principal.Windows.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\System.Text.Encodings.Web.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\System.Web.Helpers.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\System.Web.Mvc.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\System.Web.Optimization.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\System.Web.Razor.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\System.Web.WebPages.Deployment.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\System.Web.WebPages.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\System.Web.WebPages.Razor.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\WebGrease.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\Xceed.Wpf.AvalonDock.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\Xceed.Wpf.Toolkit.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\EntityFramework.xml
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\EntityFramework.SqlServer.xml
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Authentication.xml
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Authentication.Cookies.xml
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Cryptography.KeyDerivation.xml
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.DataProtection.xml
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Identity.xml
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Identity.Core.xml
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Logging.xml
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Options.xml
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.WebEncoders.xml
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\Microsoft.Owin.xml
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\Microsoft.Owin.Security.xml
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\System.Buffers.xml
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\System.Memory.xml
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\System.Numerics.Vectors.xml
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\System.Text.Encodings.Web.xml
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\System.Web.Helpers.xml
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\System.Web.Mvc.xml
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\System.Web.Optimization.xml
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\System.Web.Razor.xml
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\System.Web.WebPages.xml
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\System.Web.WebPages.Deployment.xml
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\System.Web.WebPages.Razor.xml
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\Newtonsoft.Json.xml
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\Antlr3.Runtime.pdb
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\bin\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\obj\Debug\Venonchorrocast.csproj.AssemblyReference.cache
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\obj\Debug\Venonchorrocast.csproj.CoreCompileInputs.cache
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\obj\Debug\Venonchorrocast.dll
+C:\Users\suporte\Downloads\Venonchorrocast\Venonchorrocast\obj\Debug\Venonchorrocast.pdb
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Venonchorrocast.dll.config
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Venonchorrocast.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Venonchorrocast.pdb
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\csc.exe
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\csc.exe.config
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\csc.rsp
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\csi.exe
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\csi.exe.config
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\csi.rsp
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\System.AppContext.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Console.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\System.IO.Compression.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Net.Http.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Net.Sockets.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\System.ValueTuple.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Xml.XPath.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\vbc.exe
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\vbc.exe.config
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\vbc.rsp
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\VBCSCompiler.exe
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Antlr3.Runtime.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\EntityFramework.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\EntityFramework.SqlServer.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Authentication.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Identity.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Identity.Core.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Logging.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Options.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.WebEncoders.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.Owin.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.Owin.Security.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.Win32.Registry.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Newtonsoft.Json.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Owin.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\System.Buffers.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\System.Collections.Immutable.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\System.ComponentModel.Annotations.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\System.Memory.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\System.Numerics.Vectors.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\System.Reflection.Metadata.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\System.Security.AccessControl.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\System.Security.Cryptography.Xml.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\System.Security.Permissions.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\System.Security.Principal.Windows.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\System.Text.Encodings.Web.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\System.Web.Helpers.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\System.Web.Mvc.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\System.Web.Optimization.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\System.Web.Razor.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\System.Web.WebPages.Deployment.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\System.Web.WebPages.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\System.Web.WebPages.Razor.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\WebGrease.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Xceed.Wpf.AvalonDock.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Xceed.Wpf.Toolkit.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\EntityFramework.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\EntityFramework.SqlServer.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Authentication.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Authentication.Cookies.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Cryptography.KeyDerivation.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.DataProtection.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Identity.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Identity.Core.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Logging.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Options.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.WebEncoders.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.Owin.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.Owin.Security.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\System.Buffers.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\System.Collections.Immutable.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\System.Memory.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\System.Numerics.Vectors.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\System.Reflection.Metadata.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\System.Text.Encodings.Web.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\System.Web.Helpers.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\System.Web.Mvc.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\System.Web.Optimization.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\System.Web.Razor.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\System.Web.WebPages.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\System.Web.WebPages.Deployment.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\System.Web.WebPages.Razor.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Newtonsoft.Json.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Antlr3.Runtime.pdb
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\bin\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\obj\Debug\Venonchorrocast.csproj.CoreCompileInputs.cache
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\obj\Debug\Venonchorrocast.csproj.CopyComplete
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\obj\Debug\Venonchorrocast.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\obj\Debug\Venonchorrocast.pdb
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Venonchorrocast.dll.config
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Venonchorrocast.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Venonchorrocast.pdb
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\csc.exe
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\csc.exe.config
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\csc.rsp
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\csi.exe
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\csi.exe.config
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\csi.rsp
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.AppContext.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Console.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.IO.Compression.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Net.Http.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Net.Sockets.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.ValueTuple.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Xml.XPath.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\vbc.exe
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\vbc.exe.config
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\vbc.rsp
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\VBCSCompiler.exe
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Antlr3.Runtime.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\EntityFramework.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\EntityFramework.SqlServer.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Authentication.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Identity.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Identity.Core.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Logging.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Options.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.WebEncoders.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Owin.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Owin.Security.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Win32.Registry.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Newtonsoft.Json.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Owin.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Buffers.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Collections.Immutable.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.ComponentModel.Annotations.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Memory.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Numerics.Vectors.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Reflection.Metadata.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Security.AccessControl.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Security.Cryptography.Xml.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Security.Permissions.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Security.Principal.Windows.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Text.Encodings.Web.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Web.Helpers.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Web.Mvc.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Web.Optimization.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Web.Razor.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Web.WebPages.Deployment.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Web.WebPages.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Web.WebPages.Razor.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\WebGrease.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Xceed.Wpf.AvalonDock.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Xceed.Wpf.Toolkit.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\EntityFramework.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\EntityFramework.SqlServer.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Authentication.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Authentication.Cookies.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Cryptography.KeyDerivation.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.DataProtection.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Identity.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Identity.Core.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Logging.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Options.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.WebEncoders.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Owin.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Owin.Security.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Buffers.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Collections.Immutable.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Memory.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Numerics.Vectors.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Reflection.Metadata.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Text.Encodings.Web.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Web.Helpers.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Web.Mvc.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Web.Optimization.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Web.Razor.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Web.WebPages.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Web.WebPages.Deployment.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Web.WebPages.Razor.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Newtonsoft.Json.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Antlr3.Runtime.pdb
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\obj\Debug\Venonchorrocast.csproj.CoreCompileInputs.cache
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\obj\Debug\Venonchorrocast.csproj.CopyComplete
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\obj\Debug\Venonchorrocast.dll
+C:\Users\suporte\Documents\ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\obj\Debug\Venonchorrocast.pdb
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Venonchorrocast.dll.config
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Venonchorrocast.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Venonchorrocast.pdb
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\csc.exe
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\csc.exe.config
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\csc.rsp
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\csi.exe
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\csi.exe.config
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\csi.rsp
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.AppContext.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Collections.Immutable.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Console.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Globalization.Calendars.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.IO.Compression.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.IO.FileSystem.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Net.Http.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Net.Sockets.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Reflection.Metadata.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.ValueTuple.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Xml.XPath.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\vbc.exe
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\vbc.exe.config
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\vbc.rsp
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\VBCSCompiler.exe
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\VBCSCompiler.exe.config
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Antlr3.Runtime.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\EntityFramework.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\EntityFramework.SqlServer.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Authentication.Cookies.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Authentication.Core.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Authentication.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.DataProtection.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Http.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Http.Extensions.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Http.Features.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Identity.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.WebUtilities.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Configuration.Binder.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Configuration.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Identity.Core.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Logging.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.ObjectPool.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Options.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Primitives.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.WebEncoders.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Net.Http.Headers.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Owin.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Owin.Security.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Web.Infrastructure.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Win32.Registry.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Newtonsoft.Json.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Owin.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Buffers.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Collections.Immutable.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.ComponentModel.Annotations.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Memory.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Numerics.Vectors.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Reflection.Metadata.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Security.AccessControl.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Security.Cryptography.Xml.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Security.Permissions.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Security.Principal.Windows.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Text.Encodings.Web.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Web.Helpers.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Web.Mvc.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Web.Optimization.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Web.Razor.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Web.WebPages.Deployment.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Web.WebPages.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Web.WebPages.Razor.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\WebGrease.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Xceed.Wpf.AvalonDock.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Xceed.Wpf.Toolkit.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\EntityFramework.xml
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\EntityFramework.SqlServer.xml
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Authentication.xml
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Authentication.Cookies.xml
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Authentication.Core.xml
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Cryptography.KeyDerivation.xml
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.DataProtection.xml
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Http.xml
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Http.Extensions.xml
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Http.Features.xml
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Identity.xml
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.WebUtilities.xml
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Configuration.xml
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Configuration.Binder.xml
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Identity.Core.xml
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Logging.xml
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Logging.Abstractions.xml
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.ObjectPool.xml
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Options.xml
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Primitives.xml
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.WebEncoders.xml
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Net.Http.Headers.xml
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Owin.xml
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Owin.Security.xml
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Buffers.xml
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Collections.Immutable.xml
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Memory.xml
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Numerics.Vectors.xml
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Reflection.Metadata.xml
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Text.Encodings.Web.xml
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Web.Helpers.xml
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Web.Mvc.xml
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Web.Optimization.xml
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Web.Razor.xml
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Web.WebPages.xml
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Web.WebPages.Deployment.xml
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Web.WebPages.Razor.xml
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Newtonsoft.Json.xml
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Antlr3.Runtime.pdb
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\pt-br\System.Web.Helpers.resources.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\pt-br\System.Web.Mvc.resources.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\pt-br\System.Web.Optimization.resources.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\pt-br\System.Web.Razor.resources.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\pt-br\System.Web.WebPages.resources.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\de\Xceed.Wpf.AvalonDock.resources.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\es\Xceed.Wpf.AvalonDock.resources.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\fr\Xceed.Wpf.AvalonDock.resources.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\hu\Xceed.Wpf.AvalonDock.resources.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\it\Xceed.Wpf.AvalonDock.resources.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\ro\Xceed.Wpf.AvalonDock.resources.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\ru\Xceed.Wpf.AvalonDock.resources.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\sv\Xceed.Wpf.AvalonDock.resources.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\obj\Debug\Venonchorrocast.csproj.AssemblyReference.cache
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\obj\Debug\Venonchorrocast.csproj.CoreCompileInputs.cache
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\obj\Debug\Venonchorrocast.csproj.CopyComplete
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\obj\Debug\Venonchorrocast.dll
+E:\Documentos\03 - ESTUDOS\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\obj\Debug\Venonchorrocast.pdb
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Venonchorrocast.dll.config
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Venonchorrocast.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Venonchorrocast.pdb
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\csc.exe
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\csc.exe.config
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\csc.rsp
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\csi.exe
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\csi.exe.config
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\csi.rsp
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.AppContext.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Console.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.IO.Compression.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Net.Http.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Net.Sockets.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.ValueTuple.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Xml.XPath.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\vbc.exe
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\vbc.exe.config
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\vbc.rsp
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\VBCSCompiler.exe
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Antlr3.Runtime.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\EntityFramework.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\EntityFramework.SqlServer.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Authentication.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Identity.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Identity.Core.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Logging.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Options.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.WebEncoders.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Owin.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Owin.Security.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Win32.Registry.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Newtonsoft.Json.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Owin.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Buffers.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Collections.Immutable.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.ComponentModel.Annotations.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Memory.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Numerics.Vectors.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Reflection.Metadata.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Security.AccessControl.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Security.Cryptography.Xml.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Security.Permissions.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Security.Principal.Windows.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Text.Encodings.Web.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Web.Helpers.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Web.Mvc.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Web.Optimization.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Web.Razor.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Web.WebPages.Deployment.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Web.WebPages.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Web.WebPages.Razor.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\WebGrease.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Xceed.Wpf.AvalonDock.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Xceed.Wpf.Toolkit.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\EntityFramework.xml
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\EntityFramework.SqlServer.xml
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Authentication.xml
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Authentication.Cookies.xml
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Cryptography.KeyDerivation.xml
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.DataProtection.xml
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Identity.xml
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Identity.Core.xml
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Logging.xml
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Options.xml
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Extensions.WebEncoders.xml
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Owin.xml
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Owin.Security.xml
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Buffers.xml
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Collections.Immutable.xml
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Memory.xml
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Numerics.Vectors.xml
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Reflection.Metadata.xml
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Text.Encodings.Web.xml
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Web.Helpers.xml
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Web.Mvc.xml
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Web.Optimization.xml
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Web.Razor.xml
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Web.WebPages.xml
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Web.WebPages.Deployment.xml
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\System.Web.WebPages.Razor.xml
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Newtonsoft.Json.xml
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Antlr3.Runtime.pdb
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\bin\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\obj\Debug\Venonchorrocast.csprojAssemblyReference.cache
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\obj\Debug\Venonchorrocast.csproj.CoreCompileInputs.cache
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\obj\Debug\Venonchorrocast.csproj.CopyComplete
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\obj\Debug\Venonchorrocast.dll
+C:\Users\negro\OneDrive\Documentos\ETEC\3º SEMESTRE\DTCC\Venonchorrocast\Venonchorrocast\Venonchorrocast\obj\Debug\Venonchorrocast.pdb

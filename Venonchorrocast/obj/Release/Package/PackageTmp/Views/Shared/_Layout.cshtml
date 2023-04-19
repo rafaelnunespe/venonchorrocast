@@ -1,0 +1,90 @@
+﻿<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.0/font/bootstrap-icons.css">
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark" style="background-color: #1c1c1c;">
+        <div class="container-fluid">
+            @Html.ActionLink("Venonchorrocast", "Index", "Home", new { area = "" }, new { @class = "navbar-brand", @id = "titlenavbar" })
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse flex-row-reverse" id="navbarTogglerDemo02">
+                <ul class="navbar-nav">
+                    @if (String.Equals(Session["nomeUsuarioLogado"], "administration"))
+                    {
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                Controle
+                            </a>
+                            <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                                @Html.ActionLink("Criar Episódio", "Create", "Episodios", new { area = "" }, new { @class = "dropdown-item" })
+                                @Html.ActionLink("Listar Episódios", "Index", "Episodios", new { area = "" }, new { @class = "dropdown-item" })
+                                @Html.ActionLink("Listar Usuários", "Index", "Ouvintes", new { area = "" }, new { @class = "dropdown-item" })
+                            </ul>
+                        </li>
+                    }
+                    else
+                    {
+                        <li class="nav-item">
+                            @Html.ActionLink("Home", "Index", "Home", new { area = "" }, new { @class = "nav-link" })
+                        </li>
+                    }
+                    <li class="nav-item">
+                        @Html.ActionLink("Episódios", "Episodios", "Episodios", new { area = "" }, new { @class = "nav-link" })
+                    </li>
+
+                    @if (Session["usuarioLogadoID"] == null)
+                    {
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                Área do ouvinte
+                            </a>
+                            <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                                @Html.ActionLink("Entrar", "Login", "Ouvintes", new { area = "" }, new { @class = "dropdown-item" })
+                                @Html.ActionLink("Cadastre-se", "Create", "Ouvintes", new { area = "" }, new { @class = "dropdown-item" })
+                            </ul>
+                        </li>
+                    }
+                    else
+                    {
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                @Session["apelidoLogado"]
+                            </a>
+                            <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                                @Html.ActionLink("Minha Área", "Details", "Ouvintes", new { id = Session["usuarioLogadoID"] }, new { @class = "dropdown-item" })
+                                @Html.ActionLink("Logout", "Logout", "Ouvintes", new { area = "" }, new { @class = "dropdown-item" })
+                            </ul>
+                        </li>
+                    }
+
+                    <li class="nav-item">
+                        @Html.ActionLink("Contato", "Contact", "Home", new { area = "" }, new { @class = "nav-link" })
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - Venonchorrocast</p>
+        </footer>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+
+</body>
+</html>

@@ -1,0 +1,56 @@
+﻿@model Venonchorrocast.Models.Episodio
+
+@{
+    ViewBag.Title = @Html.DisplayFor(model => model.Titulo);
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container-fluid">
+    <div class="row pd-details">
+        <div class="col-12 col-lg-5 col-xl-4">
+            <img src="/Episodios/RetrieveImage/@Html.DisplayFor(model => model.id_episodio)" class="episodio-details rounded" alt="Thumbnail" />
+        </div>
+        <div class="col-12 col-lg-6 col-xl-8 about-ep">
+            <h2 class="fw-bold">@Html.DisplayFor(model => model.Titulo)</h2>
+            <p style="font-size: 17px">
+                @Html.DisplayFor(model => model.Descriçao)
+                <br />
+                <br />
+            </p>
+            <p style="font-size: 15px">
+                <b>Participantes:</b>
+                @Html.DisplayFor(model => model.Participantes)
+                <br />
+                <br />
+            </p>
+
+            <span class="text-muted" style="font-size: 14px">
+                Duração:
+                @Html.DisplayFor(model => model.Duraçao) -
+                Publicação:
+                @Html.DisplayFor(model => model.Data_Public)
+                <br /> <br /> <br />
+            </span>
+
+            <div class="btn btn-success btn-play">
+                <i class="bi-play-circle" style="color: black; font-size: 1em"></i>
+                <a href="@Url.Action("Play", "Episodios", new { id = Model.id_episodio })" onClick="javascript:window.open('@ViewData["linkPlay"]')" style="color: white">
+                    Play
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div>
+    <a href="@Url.Action("Episodios", "Episodios")" class="btn btn-warning">
+        <i class="bi-arrow-left"></i>
+        Mais Episódios
+    </a>
+
+    <a href="@Url.Action("Index", "Comentarios", new { id = Model.id_episodio })" class="btn btn-info">
+        <i class="bi-chat-left-dots"></i>
+        Comentários
+    </a>
+</div>

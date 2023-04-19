@@ -1,0 +1,92 @@
+﻿@model Venonchorrocast.Models.Ouvinte
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html lang="pt-br">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta charset="utf-8" />
+    <title>Entrar</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body>
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/jqueryval")
+
+    @using (Html.BeginForm())
+    {
+        //cria a tag do formulário
+        @Html.AntiForgeryToken() // previne o ataque CSRF
+        @Html.ValidationSummary(true)
+
+
+        if (@TempData["ErroLogin"] != null)
+        {
+            <script type="text/javascript">
+            window.onload = function () {
+                alert("@TempData["ErroLogin"]");
+            };
+            </script>
+        }
+
+        <div class="header-login pd">
+            <div class="container clearfix text-center">
+                <a class="header-logo" href="Voltar">
+                    <img class="logo" src="~/Images/logovenon.jpg" />
+                </a>
+            </div>
+        </div>
+
+        <main class="login-wrapper">
+
+            <p class="textSignin text-center text-muted">Entrar</p>
+
+            <div class="form-horizontal form-login">
+
+                <div class="form-group form-gp-login">
+                    @Html.LabelFor(model => model.Email, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-12">
+                        @Html.EditorFor(model => model.Email, new { htmlAttributes = new { @class = "form-control form-ctrl-login" } })
+                        @Html.ValidationMessageFor(model => model.Email, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+                <div class="form-group form-gp-login">
+                    @Html.LabelFor(model => model.Senha, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-12">
+                        @Html.EditorFor(model => model.Senha, new { htmlAttributes = new { @type = "password", @class = "form-control form-ctrl-login" } })
+                        @Html.ValidationMessageFor(model => model.Senha, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <div class="col-md-12 entrarButton">
+                        <input type="submit" value="Entrar" class="btn btn-success btnlogin" />
+                    </div>
+                </div>
+            </div>
+        </main>
+
+        <p class="signin-callout">
+            Não possui uma conta?
+            <a href="Create">Cadastrar-se</a>
+        </p>
+
+        <div class="text-center btnvoltar">
+            <a href="Voltar" class="btn btn-warning">
+                Voltar
+            </a>
+        </div>
+
+    }
+
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+</body>
+</html>

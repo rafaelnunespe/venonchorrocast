@@ -1,0 +1,55 @@
+﻿@model IEnumerable<Venonchorrocast.Models.Comentario>
+
+@{
+    ViewBag.Title = "Comentários";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+    @if (TempData["ErroComentar"] != null)
+    {
+    <script type="text/javascript">
+            window.onload = function () {
+                alert("@TempData["ErroComentar"]");
+            };
+    </script>
+    }
+
+    <h2 class="pd">@Session["nome_episodio"]</h2>
+    <hr />
+
+    @foreach (var item in Model)
+    {
+        <div class="d-flex pb-4">
+            <div class="flex-shrink-0">
+                <img src="/Comentarios/RetrieveImage/@item.fk_id_ouvinte" alt="" style="width: 80px; height: 80px; border-radius: 100px" />
+            </div>
+            <div class="flex-grow-0 ms-3">
+                <p class="fw-bold">@Html.DisplayFor(modelItem => item.Ouvinte.Apelido)</p>
+                <p>@Html.DisplayFor(modelItem => item.Conteudo) </p>
+            </div>
+            <div class="flex-grow-0 ms-3">
+                <span class="text-muted" style="font-size: 11px">@Html.DisplayFor(modelItem => item.Hora_Public)</span>
+            </div>
+            @if (String.Equals(Session["nomeUsuarioLogado"], "administration"))
+            {
+                <div class="ms-3">
+                    <!--@Html.ActionLink("Edit", "Edit", new { id = item.id_comentario }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.id_comentario })-->
+                    |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.id_comentario })
+                </div>
+            }
+        </div>
+    }
+
+    <div>
+        <a href="@Url.Action("Details", "Episodios", new { id = Session["id_ep"]})" class="btn btn-warning">
+            <i class="bi-arrow-left"></i>
+            Voltar
+        </a>
+
+        <a href="@Url.Action("Create", "Comentarios")" class="btn btn-info">
+            <i class="bi-chat-left-dots"></i>
+            Comentar
+        </a>
+    </div>

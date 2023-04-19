@@ -1,0 +1,54 @@
+﻿@model Venonchorrocast.Models.Comentario
+
+@{
+    ViewBag.Title = "Comentar";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<h2 class="pd">Comentar</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    if (Session["usuarioLogadoID"] != null)
+    {
+
+        <div class="form-horizontal">
+            <hr />
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+            <div class="form-group">
+                @Html.LabelFor(model => model.Conteudo, htmlAttributes: new { @class = "control-label col-md-2 h6" })
+                <div class="col-md-12">
+                    @Html.EditorFor(model => model.Conteudo, new { htmlAttributes = new { @class = "form-control label-comentarios", placeholder = "Insira seu comentário" } })
+                    @Html.ValidationMessageFor(model => model.Conteudo, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="pt-3">
+                <a href="@Url.Action("Index", "Comentarios", new { id = Session["id_ep"] })" class="btn btn-warning">
+                    <i class="bi-arrow-left"></i>
+                    Voltar
+                </a>
+
+                <input type="submit" value="Enviar" class="btn btn-success" />
+            </div>
+        </div>
+    }
+    else
+    {
+        <h2 class="pd">Você não possui acesso à essa página, favor voltar à pagina inicial!</h2>
+
+        <div class="pt-3">
+            <a href="@Url.Action("Index", "Home")" class="btn btn-warning">
+                <i class="bi-arrow-left"></i>
+                Voltar
+            </a>
+        </div>
+    }
+}
+
+
+
+

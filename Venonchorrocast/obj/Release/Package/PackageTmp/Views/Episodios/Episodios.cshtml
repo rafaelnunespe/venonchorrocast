@@ -1,0 +1,42 @@
+﻿@model IEnumerable<Venonchorrocast.Models.Episodio>
+
+@{
+    ViewBag.Title = "Episódios";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2 class="title-episodios">Episódios</h2>
+
+<hr />
+
+<div class="row pesquisa">
+    <form asp-action="Episodios" method="get">
+        <input class="form-control input-search col-md-4" name="SearchString" value="@ViewData["CurrentFilter"]" type="search" placeholder="Procurar" aria-label="Search" />
+        <button class="btn btn-outline-success col-1" type="submit"><i class="bi-search" style="color: white;"></i></button>
+    </form>
+</div>
+
+
+@foreach (var item in Model)
+{
+    <div class="d-flex align-items-center content">
+        <div class="flex-shrink-0">
+            <img src="/Episodios/RetrieveImage/@item.id_episodio" class="rounded float-start" width="170">
+        </div>
+        <div class="flex-grow-1 ms-3">
+            <h5> @Html.DisplayFor(modelItem => item.Titulo)</h5>
+            <span class="text-muted" style="font-size: 14px">
+                Publicação:
+                @Html.DisplayFor(modelItem => item.Data_Public)
+                <br />
+            </span>
+            <span class="text-muted" style="font-size: 12px">
+                Duração:
+                @Html.DisplayFor(modelItem => item.Duraçao)
+            </span>
+            <div>
+                @Html.ActionLink("Ver mais", "Details", new { id = item.id_episodio }, new { @class = "ver-mais" })
+            </div>
+        </div>
+    </div>
+}

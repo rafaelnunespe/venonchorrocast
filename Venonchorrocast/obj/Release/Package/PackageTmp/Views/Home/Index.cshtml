@@ -1,0 +1,91 @@
+﻿@model IEnumerable<Venonchorrocast.Models.Episodio>
+
+@{
+    ViewBag.Title = "Venonchorrocast - Página Inicial";
+}
+
+
+
+<header class="jumbotron section-intro">
+    <div class="container">
+        <div class="row align-items-center align-content-center">
+            <div class="col-12 col-sm-9">
+                <h1 id="title">Venonchorrocast</h1>
+                <span class="text-muted">By Rafael Nunes, Fellipe Cardoso Dos Reis, Douglas Alves</span>
+                <p>O podcast mais chique show de Sorocaba e região, onde falamos sobre filmes, jogos, séries, desenhos, animes ou "seje"... cultura pop em geral, tudo o que der vontade de falar, tudo o que nos der na telha!</p>
+            </div>
+            <div class="col-12 col-sm-3">
+                <img src="~/Images/logovenon.jpg" id="logoImage" style=" border-radius: 100px; width: 200px; padding: 10px">
+            </div>
+        </div>
+
+        <div class="row flex-row">
+            <div class="col-12" id="listenToo">
+                <span class="text-muted">Ouça também nas plataformas digitais</span>
+            </div>
+            <div class="content-plataforms">
+                <div class="d-flex justify-content-start">
+                    <div class="flex-shrink-0 icon-plataform">
+                        <a href="https://open.spotify.com/show/3SGIZInLjLHWCwoJff5EQR" target="_blank">
+                            <img src="~/Images/spotify.png" style="width: 30px" />
+                        </a>
+                    </div>
+                    <div class="flex-shrink-0 icon-plataform">
+                        <a href="https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8yYjk0Yjk3Yy9wb2RjYXN0L3Jzcw==" target="_blank">
+                            <img src="~/Images/podcastgoogle.png" style="width: 30px" />
+                        </a>
+                    </div>
+                    <div class="flex-shrink-0 icon-plataform">
+                        <a href="https://www.breaker.audio/venonchorrocast" target="_blank">
+                            <img src="~/Images/breaker.png" style="width: 30px" />
+                        </a>
+                    </div>
+                    <div class="flex-shrink-0 icon-plataform">
+                        <a href="https://radiopublic.com/venonchorrocast-Wwzzoy" target="_blank">
+                            <img src="~/Images/radiopublic.png" style="width: 30px" />
+                        </a>
+                    </div>
+                    <div class="flex-shrink-0 icon-plataform">
+                        <a href="https://anchor.fm/venonchorro" target="_blank">
+                            <img src="~/Images/anchor.png" style="width: 30px" />
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+<section class="main-section">
+    <hr class="my-4" />
+    <div class="main-title">
+        <h4 class="fw-bolder">Novos episódios e mais!</h4>
+    </div>
+    <div class="main-content">
+
+
+        @foreach (var item in Model)
+        {
+            <div class="d-flex align-items-center content">
+                <div class="flex-shrink-0">
+                    <img src="/Episodios/RetrieveImage/@item.id_episodio" class="rounded float-start" width="170">
+                </div>
+                <div class="flex-grow-1 ms-3">
+                    <h5> @Html.DisplayFor(modelItem => item.Titulo)</h5>
+                    <span class="text-muted" style="font-size: 14px">
+                        Publicação:
+                        @Html.DisplayFor(modelItem => item.Data_Public)
+                        <br />
+                    </span>
+                    <span class="text-muted" style="font-size: 12px">
+                        Duração:
+                        @Html.DisplayFor(modelItem => item.Duraçao)
+                    </span>
+                    <div>
+                        @Html.ActionLink("Ver mais", "Details", "Episodios", new { id = item.id_episodio }, new { @class = "ver-mais" })
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</section>

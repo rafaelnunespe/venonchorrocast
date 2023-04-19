@@ -1,0 +1,80 @@
+﻿@model Venonchorrocast.Models.Ouvinte
+
+@{
+    ViewBag.Title = "Deletar Usuário";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@if (String.Equals(Session["nomeUsuarioLogado"], "administration"))
+{
+    if (@TempData["ErroDelete"] != null)
+    {
+        <script type="text/javascript">
+            window.onload = function () {
+                alert("@TempData["ErroDelete"]");
+            };
+        </script>
+    }
+
+    <h2 class="pd">Deletar</h2>
+
+    <h3>Você tem certeza que deseja deletar este perfil?</h3>
+    <div>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.Nome)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Nome)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Apelido)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Apelido)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Email)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Email)
+            </dd>
+
+        </dl>
+
+        @using (Html.BeginForm())
+        {
+            @Html.AntiForgeryToken()
+
+            <div class="form-actions">
+                <div class="row">
+                    <div class="col-md-1 btn-create">
+                        <input type="submit" value="Deletar" class="btn btn-danger" />
+                    </div>
+                    <div class="col-md-1 btn-create">
+                        <a href="@Url.Action("Index", "Ouvintes")" class="btn btn-warning">
+                            Voltar
+                        </a>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+}
+else
+{
+    <h2 class="pd">Você não possui acesso à essa página, favor voltar à pagina inicial!</h2>
+
+    <div class="pt-3">
+        <a href="@Url.Action("Index", "Home")" class="btn btn-warning">
+            <i class="bi-arrow-left"></i>
+            Voltar
+        </a>
+    </div>
+}

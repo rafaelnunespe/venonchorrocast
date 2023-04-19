@@ -1,0 +1,318 @@
+﻿/*SETANDO CONFIGURAÇÕES DO SITE*/
+body {
+    padding-bottom: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #171717;
+    color: white
+}
+
+a {
+    text-decoration: none
+}
+
+/*------------------------------------------------------------------------*/
+
+/*Exportando fonte*/
+@font-face {
+    font-family: Miscreant;
+    src: url('../fonts/Miscreant Regular.otf')
+}
+
+/*------------------------------------------------------------------------*/
+
+/*Estilo par Venonchorrocast da navbar*/
+#titlenavbar {
+    font-family: Miscreant;
+    font-size: 30px;
+}
+
+/*------------------------------------------------------------------------*/
+
+/*Estilo para Venonchorrocast do jumbotron*/
+#title {
+    font-family: Miscreant;
+}
+
+/*Estilo para jumbotron*/
+.jumbotron {
+    background-color: transparent;
+    color: white;
+    padding: 10px
+}
+
+/*------------------------------------------------------------------------*/
+
+/*Padding para o título Escutem também...*/
+#listenToo {
+    padding: 10px
+}
+
+.icon-plataform {
+    padding: 5px
+}
+
+/*------------------------------------------------------------------------*/
+
+
+/*Formatação novos episódios*/
+.main-content, .main-title {
+    color: white
+}
+
+.content {
+    margin: 20px
+}
+
+/*------------------------------------------------------------------------*/
+
+/*Página de cadastro*/
+.cadastro-wrapper {
+    width: 340px;
+    margin: 0 auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.textSignup {
+    font-size: 26px
+}
+
+.form-cadastro {
+    background-color: #1d1d1d;
+    border-radius: 6px;
+    border: 1px solid #181a1d;
+    padding: 20px
+}
+
+.form-gp-cadastro {
+    width: 100%;
+    display: block;
+    margin-bottom: 8px;
+}
+
+.form-ctrl-cadastro {
+    box-shadow: inset 0 0 0 32px white;
+    border: 1px solid #303134;
+    border-radius: 6px;
+    padding: 5px 12px;
+    line-height: 24px;
+    outline: none;
+}
+
+label {
+    font-size: 14px
+}
+
+.btncadastrar {
+    width: 100%;
+    background-color: #198754;
+    border-color: #198754;
+}
+
+.cadastrarButton {
+    margin-top: 20px;
+}
+
+.signup-callout {
+    width: 340px;
+    margin: 0 auto;
+    margin-top: 20px;
+    text-align: center;
+    border: 1px solid #303134;
+    padding: 15px 20px;
+    border-radius: 6px;
+}
+
+/*------------------------------------------------------------------------*/
+
+/*Página de LOGIN*/
+
+.login-wrapper {
+    width: 340px;
+    margin: 0 auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.textSignin {
+    font-size: 26px
+}
+
+.btnlogin {
+    width: 100%;
+    background-color: #198754;
+    border-color: #198754;
+}
+
+.entrarButton {
+    margin-top: 20px;
+}
+
+.form-login {
+    background-color: #1d1d1d;
+    border-radius: 6px;
+    border: 1px solid #181a1d;
+    padding: 20px
+}
+
+.form-gp-login {
+    width: 100%;
+    display: block;
+    margin-bottom: 8px;
+}
+
+.form-ctrl-login {
+    box-shadow: inset 0 0 0 32px white;
+    border: 1px solid #303134;
+    border-radius: 6px;
+    padding: 5px 12px;
+    line-height: 24px;
+    outline: none;
+}
+
+.signin-callout {
+    width: 340px;
+    margin: 0 auto;
+    margin-top: 20px;
+    text-align: center;
+    border: 1px solid #303134;
+    padding: 15px 20px;
+    border-radius: 6px;
+}
+
+.btnvoltar {
+   padding-top: 20px
+}
+
+
+
+/*------------------------------------------------------------------------*/
+
+/*Header com logo - página de cadastro e login */
+.logo {
+    width: 100px;
+    border-radius: 100px
+}
+
+.pd {
+    padding-bottom: 24px !important;
+    padding-top: 44px !important
+}
+
+/*------------------------------------------------------------------------*/
+/*Foto de perfil do usuário*/
+
+.foto-perfil {
+    border-radius: 5px
+}
+
+/*------------------------------------------------------------------------*/
+/*mensagem de erro cadastro*/
+.message-error-cad {
+    font-size: 12px;
+    padding: 5px
+}
+
+
+/*------------------------------------------------------------------------*/
+
+/*CADASTRO DE EPISÓDIO ADMIN*/
+
+.title-create {
+    padding-top: 27px;
+}
+
+.btn-create {
+    padding-top: 10px;
+    padding-bottom: 10px
+}
+
+/* INDEX EPISÓDIO ADMIN*/
+.td-size {
+    width: 200px;
+    height: 50px;
+    max-width: 200px;
+    min-width: 200px;
+    max-height: 50px;
+    min-height: 50px;
+}
+
+/*------------------------------------------------------------------------*/
+
+/*OUVINTES ADMIN*/
+.table{
+    color: white
+}
+
+/*------------------------------------------------------------------------*/
+
+/*Página de Episódios*/
+.title-episodios {
+    padding-top: 20px;
+}
+
+.ver-mais {
+    color: white;
+    font-size: 14px;
+}
+
+.input-search {
+       width: 50%;
+       display: inline-block
+}
+
+/* Página de detalhes*/
+.btn-play {
+    font-size: 1.5em;
+}
+
+
+.episodio-details {
+    width: 380px;
+    padding-right: 20px;
+    padding-bottom: 20px
+}
+
+.pd-details {
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+.buttons-details {
+    margin: 16px;
+    padding: 10px;
+}
+
+/*------------------------------------------------------------------------*/
+/*Comentários*/
+.label-comentarios {
+    background-color: transparent;
+    border: none;
+    border-bottom: 1px solid #303134;
+    padding: 5px 12px;
+    line-height: 24px;
+    outline: none;
+}
+
+
+
+
+/*------------------------------------------------------------------------*/
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+
+select,
+textarea {
+    max-width: 280px;
+}

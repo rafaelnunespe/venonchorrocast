@@ -1,0 +1,89 @@
+﻿@model IEnumerable<Venonchorrocast.Models.Episodio>
+
+@{
+    ViewBag.Title = "Episódios Cadastrados";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@if (String.Equals(Session["nomeUsuarioLogado"], "administration"))
+{
+
+    <h2 class="pd">Lista de Episódios</h2>
+
+    <table class="table">
+        <tr>
+            <th scope="col">
+                @Html.DisplayNameFor(model => model.Arte)
+            </th>
+            <th scope="col">
+                @Html.DisplayNameFor(model => model.Titulo)
+            </th>
+            <th scope="col">
+                @Html.DisplayNameFor(model => model.Duraçao)
+            </th>
+            <th scope="col">
+                @Html.DisplayNameFor(model => model.Link)
+            </th>
+            <th scope="col">
+                @Html.DisplayNameFor(model => model.Data_Public)
+            </th>
+            <th scope="col">
+                @Html.DisplayNameFor(model => model.Qntde_Play)
+            </th>
+            <th scope="col">
+                @Html.DisplayNameFor(model => model.Qntde_Download)
+            </th>
+            <th scope="col">
+                @Html.DisplayNameFor(model => model.Participantes)
+            </th>
+            <th scope="col"></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    <img src="/Episodios/RetrieveImage/@item.id_episodio" alt="" height=110 width=110 />
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Titulo)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Duraçao)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Link)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Data_Public)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Qntde_Play)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Qntde_Download)
+                </td>
+                <td class="td-size">
+                    @Html.DisplayFor(modelItem => item.Participantes)
+                </td>
+                <td class="td-size">
+                    @Html.ActionLink("Edit", "Edit", new { id = item.id_episodio }) |
+                    <!--@Html.ActionLink("Details", "Details", new { id = item.id_episodio }) |-->
+                    @Html.ActionLink("Delete", "Delete", new { id = item.id_episodio })
+                </td>
+            </tr>
+        }
+
+    </table>
+}
+else
+{
+    <h2 class="pd">Você não possui acesso à essa página, favor voltar à pagina inicial!</h2>
+
+    <div class="pt-3">
+        <a href="@Url.Action("Index", "Home")" class="btn btn-warning">
+            <i class="bi-arrow-left"></i>
+            Voltar
+        </a>
+    </div>
+}
